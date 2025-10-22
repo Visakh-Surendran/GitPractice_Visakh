@@ -1,0 +1,21 @@
+1 git config --global user.name "Your Name" – Sets your username for all Git repositories.
+
+2 git config --global user.email "you@example.com" – Sets your email for all Git repositories.
+
+3 git init – Starts a new Git repository in the current folder.
+
+4 git status – Shows the current status of files (new, modified, or staged).
+
+5 git add filename – Adds a specific file to the staging area.
+
+6 git add . – Adds all changed files to the staging area.
+
+7 git commit -m "Your commit message" – Saves your changes with a short description.
+
+8 git log – Displays a list of all commits made in the repository.
+
+9 git checkout -b branchname – Creates a new branch and switches to it.
+
+10 git checkout main – Switches back to the main branch.
+
+
